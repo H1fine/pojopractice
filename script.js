@@ -64,23 +64,23 @@ console.log(car);
 // TODO: Explain what was wrong in a comment. Mixing the comma behind value 2020
 
 
-const sprite = {
+const sprite2 = {
     "name": "Hero",
     "x": 100,
     "y": 200
 };
 
-console.log(sprite.x);
-sprite.x = 150;
-console.log(sprite.x);
+console.log(sprite2.x);
+sprite2.x = 150;
+console.log(sprite2.x);
 
-sprite.y = 250;
-console.log(sprite.y);
+sprite2.y = 250;
+console.log(sprite2.y);
 
 // TODO: Write your guesses for each console.log as comments.
 //sprite = 50
 
-const book = {
+const book2 = {
     "title": "JavaScript for Beginners",
     "author": "Jane Doe",
     "pages": 300
@@ -102,7 +102,7 @@ console.log(6);
 // TODO: Change age to 6.
 // TODO: Print age again.
 
-const sprite = {
+const sprite3 = {
     "name": "Hero",
     "x": 120,
     "y": 220
