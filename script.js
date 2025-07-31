@@ -67,7 +67,24 @@ const car = {
     "year": 2020,
     "color": "Blue"
 };
+console.log(car);
 
 // TODO: Fix the syntax error.
 // TODO: Explain what was wrong in a comment. Mixing the comma behind value 2020
-console.log(car);
+
+
+const sprite = {
+    "name": "Hero",
+    "x": 100,
+    "y": 200
+};
+
+console.log(sprite.x);
+sprite.x = 150;
+console.log(sprite.x);
+
+sprite.y = 250;
+console.log(sprite.y);
+
+// TODO: Write your guesses for each console.log as comments.
+//sprite = 50
